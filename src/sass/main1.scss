@@ -1,0 +1,13 @@
+$primaryColor:blue;
+
+body{
+    background-color: $primaryColor;
+
+    p{
+        background-color: #fff;
+
+    }
+    a {
+  transition: transform 10s
+}
+}
